@@ -1,4 +1,3 @@
-Thanks to Skochinsky's Me-Tools for extracting my Intel ME data: https://github.com/skochinsky/me-tools
 
 # ME Analyzer
 Intel Engine Firmware Analysis Tool
